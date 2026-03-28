@@ -17,9 +17,6 @@ Angular dev. Fullstack when forced. My CSS is held together by `!important` and 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbraStark&show_icons=true&theme=dark&hide_border=true)
 
 ## Find me
 
